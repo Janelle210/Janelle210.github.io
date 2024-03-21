@@ -1,6 +1,6 @@
 
 ![Header](./imagesforgithub/mountain.png)
-# About Me
+### About Me
 
 I was born and raised in the beautiful area of Yakima, Washington where I get the pleasure of enjoying the views of Mt. Adams and Mt. Rainier from my home every day. I have been blessed with a wonderful, blended family and am so proud of our three amazing boys.  My passions include spending time with family, hiking, exercise (previously certified exercise trainer), playing video games, and my dog, Beni!
 
