@@ -27,5 +27,7 @@ For the past two years I have spent my time dedicated to furthering my skills in
 e-mail: Janelle210@gmail.com
 
 ### Resume
-Looking for Remote or Hybrid work opportunities.
+
 [Resume](https://drive.google.com/file/d/1xzSai680n14Ei_rv_Uo_kmF8rq6PHL5t/view?usp=sharing)
+
+Looking for Remote or Hybrid work opportunities.
