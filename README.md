@@ -15,6 +15,9 @@
 
 •	[King County House Sales](https://github.com/Janelle210/King-County-Home-Sales-03-2024): Market analysis for one of the most populous counties in the U.S through Python and Tableau.
 
-### Work Experience
+### Contact Me
+e-mail: Janelle210@gmail.com
 
-### Education
+### Resume
+
+[Resume](https://drive.google.com/file/d/1xzSai680n14Ei_rv_Uo_kmF8rq6PHL5t/view?usp=sharing)
