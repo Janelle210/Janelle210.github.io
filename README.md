@@ -8,6 +8,8 @@ I've had various jobs growing up, but I've spent the last sixteen years a regist
 
 For the past two years I have spent my time dedicated to furthering my skills in data analysis and I am now seeking opportunities to merge my tech expertise with a people-centric approach. Please feel free to explore my projects and my portfolio! 
 
+![Beni](imagesforgithub/Beni.png)
+
 ### Portfolio
 [Janelle's Portfolio](https://drive.google.com/file/d/1D76SHxdjbUwPfwXH2ZEOfMGw7swJ9Fmp/view?usp=drive_link)
 
